@@ -1,0 +1,15 @@
+main.c:121:6:Pressure_Min_Max	4	static
+main.c:152:5:main	24	static
+main.c:265:6:SystemClock_Config	88	static
+main.c:309:13:MX_ADC1_Init	24	static
+main.c:391:13:MX_DAC_Init	16	static
+main.c:435:13:MX_I2C2_Init	8	static
+main.c:469:13:MX_TIM12_Init	56	static
+main.c:526:13:MX_DMA_Init	16	static
+main.c:544:13:MX_GPIO_Init	56	static
+main.c:617:6:One_Time_Task	16	static
+main.c:695:6:Offset_Task	16	static
+main.c:752:6:Sensor_Data_Read_Task	16	static
+main.c:773:6:Two_Milli_Second_Task	16	static
+main.c:908:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:925:6:Error_Handler	4	static,ignoring_inline_asm

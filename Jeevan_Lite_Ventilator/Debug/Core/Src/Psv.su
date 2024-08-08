@@ -1,0 +1,3 @@
+Psv.c:52:6:PSV_Mode_Task	32	static
+Psv.c:609:6:PSV_PARAMETERS	24	static
+Psv.c:693:6:PSV_PID_Task	16	static

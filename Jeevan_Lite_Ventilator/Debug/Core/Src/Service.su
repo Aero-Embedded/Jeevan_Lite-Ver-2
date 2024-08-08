@@ -1,0 +1,12 @@
+Service.c:14:6:SERVICE_COMMAND_HANDLER	16	static
+Service.c:55:6:SEND_SERVICE_PACKET	8	static
+Service.c:72:6:SERVICE_Task	16	static
+Service.c:119:6:SERVICE_Blower	8	static
+Service.c:199:6:SERVICE_ADS1115	16	static
+Service.c:219:6:SERVICE_Pressure_Sensor	8	static
+Service.c:253:6:SERVICE_Flow_Sensor	8	static
+Service.c:297:6:SERVICE_Expiratory_Valve	8	static
+Service.c:354:6:SERVICE_Leak	8	static
+Service.c:414:6:SERVICE_Servo	8	static
+Service.c:468:6:SERVICE_O2	16	static
+Service.c:525:6:SERVICE_Nebuliser	8	static

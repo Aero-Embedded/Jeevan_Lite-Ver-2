@@ -1,0 +1,7 @@
+Back_UP_VC_CMV.c:35:6:Back_Up_VC_CMV_Mode_Task	32	static
+Back_UP_VC_CMV.c:435:6:PID_Back_Up_VC_CMV_Mode_Task	16	static
+Back_UP_VC_CMV.c:474:6:volume_task_BACKUP_SIMV	8	static
+Back_UP_VC_CMV.c:540:6:BACKUP_VC_SIMV_Pulse_I_Parameter	16	static
+Back_UP_VC_CMV.c:626:6:BACKUP_VC_SIMV_Pulse_E_Parameter	8	static
+Back_UP_VC_CMV.c:640:6:Peep_E_Valve_Lock_delay_BACKUP_VC	4	static
+Back_UP_VC_CMV.c:928:6:BACKUP_VC_CMV_PARAMETERS	16	static

@@ -1,0 +1,4 @@
+HFNC.c:25:6:HFNC_Task	16	static
+HFNC.c:51:6:HFNC_PARAMETERS	32	static
+HFNC.c:130:6:Suction_Task	16	static
+HFNC.c:145:6:SUCTION_PARAMETERS	16	static

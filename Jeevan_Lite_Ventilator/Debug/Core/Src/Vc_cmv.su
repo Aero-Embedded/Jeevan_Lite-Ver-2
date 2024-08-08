@@ -1,0 +1,7 @@
+Vc_cmv.c:16:6:Vc_Cmv_Task	16	static
+Vc_cmv.c:74:6:Vc_cmv_PID_Task	16	static
+Vc_cmv.c:110:6:VC_CMV_Pulse_I_Parameter	8	static
+Vc_cmv.c:209:6:VC_CMV_Pulse_E_Parameter	8	static
+Vc_cmv.c:221:6:VC_CMV_PARAMETERS	16	static
+Vc_cmv.c:330:6:volume_task	8	static
+Vc_cmv.c:395:6:Peep_E_Valve_Lock_delay_Vc_cmv	4	static

@@ -1,0 +1,8 @@
+Oxygen_Blending.c:18:6:O2_Func	8	static
+Oxygen_Blending.c:140:6:Oxygen_Task	16	static
+Oxygen_Blending.c:172:6:adjust_servo	16	static
+Oxygen_Blending.c:219:6:Get_Oxygen	4	static
+Oxygen_Blending.c:233:6:O2_Parameter	8	static
+Oxygen_Blending.c:270:6:O2_Flow_Func	16	static
+Oxygen_Blending.c:293:10:O2_milli_volt1	16	static
+Oxygen_Blending.c:300:6:O2_Flow_offset	24	static

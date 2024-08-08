@@ -1,0 +1,4 @@
+APRV.c:57:6:APRV_Mode_Task	16	static
+APRV.c:205:6:APRV_Mode_One_Time_Task	32	static
+APRV.c:271:6:APRV_PARAMETERS	32	static
+APRV.c:367:6:Peep_E_Valve_Lock_delay_APRV	4	static

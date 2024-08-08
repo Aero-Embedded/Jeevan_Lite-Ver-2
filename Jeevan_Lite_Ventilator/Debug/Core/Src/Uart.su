@@ -1,0 +1,11 @@
+Uart.c:22:6:UART6_Init	8	static
+Uart.c:38:6:UART5_Init	8	static
+Uart.c:54:6:Uart_Transmit_Task	16	static
+Uart.c:136:6:Clear_All_Alert_Bits	4	static
+Uart.c:160:9:chksum8	24	static
+Uart.c:168:6:UART_Transmit	8	static
+Uart.c:203:6:COMMAND_HANDLER_GRAPH	16	static
+Uart.c:292:6:COMMAND_HANDLER	16	static
+Uart.c:364:6:alter_uart_data	4	static
+Uart.c:411:6:Receiver_Task	16	static
+Uart.c:426:6:HAL_UART_RxCpltCallback	24	static,ignoring_inline_asm
